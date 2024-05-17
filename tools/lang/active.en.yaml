@@ -1,0 +1,66 @@
+"No se pudo analizar el cuerpo de la solicitud":
+  other: "Could not parse the request body"
+"Hubo un problema al crear el usuario":
+  other: "There was a problem creating the user"
+"Hubo un problema al crear la conexión para el usuario":
+  other: "There was a problem creating the connection for the user"
+"Usuario creado con éxito":
+  other: "User created successfully"
+"Usuario no encontrado":
+  other: "User not found"
+"Hubo un problema al obtener el usuario":
+  other: "There was a problem retrieving the user"
+"Usuario obtenido con éxito":
+  other: "User retrieved successfully"
+"Hubo un problema al modificar el usuario":
+  other: "There was a problem modifying the user"
+"Usuario modificado con éxito":
+  other: "User modified successfully"
+"Hubo un problema al marcar el usuario para borrado":
+  other: "There was a problem marking the user for deletion"
+"Usuario marcado para borrado con éxito":
+  other: "User marked for deletion successfully"
+"El usuario no tiene permisos para crear un sitio":
+  other: "The user does not have permissions to create a site"
+"Hubo un problema al intentar crear el sitio":
+  other: "There was a problem trying to create the site"
+"Sitio creado con éxito":
+  other: "Site created successfully"
+"El usuario no tiene permisos para obtener los sitios":
+  other: "The user does not have permissions to get the sites"
+"Hubo un problema al obtener los sitios":
+  other: "There was a problem getting the sites"
+"Sitios obtenidos con éxito":
+  other: "Sites obtained successfully"
+"El usuario no tiene permisos para marcar el sitio para borrado":
+  other: "The user does not have permissions to mark the site for deletion"
+"Hubo un problema al marcar el sitio para borrado":
+  other: "There was a problem marking the site for deletion"
+"Sitio marcado para borrado con éxito":
+  other: "Site marked for deletion successfully"
+"El usuario no tiene permisos para modificar el sitio":
+  other: "The user does not have permissions to modify the site"
+"Hubo un problema al modificar el sitio":
+  other: "There was a problem modifying the site"
+"Sitio modificado con éxito":
+  other: "Site modified successfully"
+"El usuario no tiene permisos para obtener el sitio":
+  other: "The user does not have permissions to get the site"
+"Hubo un problema al obtener el sitio":
+  other: "There was a problem getting the site"
+"Sitio obtenido con éxito":
+  other: "Site obtained successfully"
+"Credenciales incorrectas":
+  other: "Incorrect credentials"
+"Hubo un problema al verificar las credenciales":
+  other: "There was a problem verifying the credentials"
+"Hubo un problema al actualizar la conexión":
+  other: "There was a problem updating the connection"
+"Hubo un problema al buscar la conexión actualizada":
+  other: "There was a problem searching for the updated connection"
+"Inicio de sesión exitoso":
+  other: "Successful login"
+"No se encontró la conexión":
+  other: "Connection not found"
+"Conexión obtenida con éxito":
+  other: "Connection obtained successfully"
